@@ -1,0 +1,7 @@
+1 "A" TRUE
+2 "b" FALSE
+3 "c" TRUE
+1 "A" TRUE
+2 "b" FALSE
+3 "c" TRUE
+1 "A" TRUE0002 "b" FALSE0003 "c" TRUE000

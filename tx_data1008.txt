@@ -1,0 +1,4 @@
+"num" "char" "log"
+"1" 1 "A" TRUE
+"2" 2 "B" FALSE
+"3" 3 "C" TRUE
